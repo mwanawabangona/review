@@ -1,0 +1,5 @@
+#ignore test file
+test.md
+
+#ignore node modules
+node_modules/
